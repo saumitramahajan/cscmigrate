@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "683652536462",
+    "firebase_url": "https://mahindracsc-e5468.firebaseio.com",
+    "project_id": "mahindracsc-e5468",
+    "storage_bucket": "mahindracsc-e5468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683652536462:android:a6f2d59f6e047daed5d1df",
+        "android_client_info": {
+          "package_name": "com.example.mahindraCSC"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683652536462-p2v9abrsbqrpoim1u14e8k4r8g546q94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudsCzDNd494dk1wDwvs8YScLSlX1uc3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683652536462-p2v9abrsbqrpoim1u14e8k4r8g546q94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683652536462:android:df956e36deac422ad5d1df",
+        "android_client_info": {
+          "package_name": "com.example.uploadSiteAssessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683652536462-p2v9abrsbqrpoim1u14e8k4r8g546q94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDudsCzDNd494dk1wDwvs8YScLSlX1uc3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683652536462-p2v9abrsbqrpoim1u14e8k4r8g546q94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
